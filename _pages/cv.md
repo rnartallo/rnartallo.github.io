@@ -18,7 +18,7 @@ Work experience
 ======
 * Oct 2021 - May 2022: Graduate Teaching Assistant
   * University of Warwick
-  * Supervisor to ten first year undergraduate maths students. I ran support classes and mark assignments in core modules including: algebra, analysis and ODEs.
+  * Supervisor to ten first year undergraduate maths students. I ran support classes and marked assignments in core modules including: algebra, analysis and ODEs.
   * Warwickshire
 
 * Summer 2021: Software Developer
