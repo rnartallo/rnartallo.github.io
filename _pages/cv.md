@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 * DPhil in Mathematics, University of Oxford, 2026 (expected)
-* MMath in Mathematics, University of Warwick, 2022 - First Class
+* MMath in Mathematics with study in Europe, University of Warwick, 2022 - First Class
+  *Study abroad in Universidad Complutense de Madrid (2021)
 
 Work experience
 ======
