@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/advection
 date: 2021-20-06
 venue: 'Universidad Complutense de Madrid'
-paperurl: 'http://rnartallo.github.io/files/advection.pdf'
+paperurl: 'http://rnartallo.github.io/files/ProyectoFinal.pdf'
 ---
 Co-written with Carlos Meneses and supervised by Felix del Teso. Project studying finite volume methods for the advection equation in 1D and refinable meshes for the sphere.
-[Download paper here](http://rnartallo.github.io/files/advection.pdf)
+[Download paper here](http://rnartallo.github.io/files/ProyectoFinal.pdf)
