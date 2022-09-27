@@ -11,49 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* DPhil in Mathematics, University of Oxford, 2026 (expected)
+* MMath in Mathematics, University of Warwick, 2022 - First Class
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct 2021 - May 2022: Graduate Teaching Assistant
+  * University of Warwick
+  * Supervisor to ten first year undergraduate maths students. I ran support classes and mark assignments in core modules including: algebra, analysis and ODEs.
+  * Warwickshire
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2021: Software Developer
+  * Softwire
+  * Summer internship as a full stack developer. Used Typescript and React to develop a content management system for an insurance company. Worked with APIs, UX design, containerisation and version control.
+  * London
+ 
+* Summer 2020: Global Data Analyst
+  * Bloomberg
+  * Summer internship as a global data analyst in the Corporate Actions team processing entity metadata. I completed a primary project that focused on automating the processing of data for MTFs using Python scripts and a secondary project focused on finding newsworthy trends in the IPO database. Awarded the “007 Award” - for the intern who ‘remained quiet but completed the best work behind the scenes’.
+  * London (Remote)  
 
-Publications
+Programming language tools and stacks
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Python
+  * Pandas
+* MATLAB
+* R
+* Typescript
+* Javascript
+* Git
+* React
+
