@@ -31,7 +31,7 @@ Work experience
   * Summer internship as a global data analyst in the Corporate Actions team processing entity metadata. I completed a primary project that focused on automating the processing of data for MTFs using Python scripts and a secondary project focused on finding newsworthy trends in the IPO database. Awarded the “007 Award” - for the intern who ‘remained quiet but completed the best work behind the scenes’.
   * London (Remote)  
 
-Programming language tools and stacks
+Programming languages, tools and stacks
 ======
 * Python
   * Pandas
@@ -42,3 +42,7 @@ Programming language tools and stacks
 * Git
 * React
 
+Languages
+======
+* English (Native)
+* Spanish (Native/C1)
