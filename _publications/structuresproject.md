@@ -8,4 +8,3 @@ paperurl: 'http://rnartallo.github.io/files/MA4J5ReportRamonNartallo.pdf'
 ---
 Simulation project providing a branching process model of a growing neural network and algorithms for generalisation to hypergraphs. Generalisations include E-I networks, Hopfield networks, deep-learning networks and clustered networks of long/short range neurons.
 [Download paper here](http://rnartallo.github.io/files/MA4J5ReportRamonNartallo.pdf)
-
