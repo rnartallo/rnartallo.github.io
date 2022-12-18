@@ -1,11 +1,10 @@
 ---
-title: "Splitting integrators for spiking neuronal models"
+title: "Splitting integrators for spiking neuron models"
 collection: publications
-permalink: /publication/mastersthesis
-date: 2022-17-04
+permalink: /publication/SplittingIntegrators
 venue: 'University of Warwick'
+date: 2022-04-08T00:00:00-00:00
 paperurl: 'http://rnartallo.github.io/files/DISSFINAL.pdf'
+---
 Master's thesis on splitting methods for structure-preserving integration of deterministic and stochastic neuronal models. The considered models are Fitz-Hugh Nagumo, Izhikevich, Adaptive Exponetial and Van der Pol. Supervised by Dr Massimiliano Tamborrino.
-[Download paper here]Report: (http://rnartallo.github.io/files/DISSFINAL.pdf)
-[Download slides here]Slides: (http://rnartallo.github.io/files/SplittingIntegratorsPresentationFinal.pdf)
 

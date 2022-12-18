@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,11 +12,16 @@ redirect_from:
 Education
 ======
 * DPhil in Mathematics, University of Oxford, 2026 (expected)
+  * Research student in Oxford Mathematical Brain Modelling group, Oxford Centre for Industrial and Applied Mathematics & Centre for Eudaemonia and Human Flourishing.
 * MMath in Mathematics with study in Europe, University of Warwick, 2022 - First Class
-  *Study abroad in Universidad Complutense de Madrid (2021)
+  * Study abroad in Universidad Complutense de Madrid (2021)
 
 Work experience
 ======
+* Oct 2022 - June 2023: Graduate Teaching Assistant
+  * University of Oxford
+  * Teaching assistant for Numerical Solutions of PDEs & Further Mathematical Methods
+  * Oxfordshire
 * Oct 2021 - May 2022: Graduate Teaching Assistant
   * University of Warwick
   * Supervisor to ten first year undergraduate maths students. I ran support classes and marked assignments in core modules including: algebra, analysis and ODEs.

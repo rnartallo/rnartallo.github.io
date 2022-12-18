@@ -1,14 +1,14 @@
 ---
 title: "Graduate Teaching Assistant"
 collection: teaching
-type: "Teaching Assistant - Masters"
+type: "Teaching Assistant"
 permalink: /teaching/oxford
+date: 2022-04-08T00:00:00-00:00
 venue: "University of Oxford, Mathematics"
-date: 2022
 location: "Oxford, United Kingdom"
 ---
 
-Teaching assistant for MSc course in Numerical Solution of PDEs lectured by Endre Sulli
+Teaching assistant for MSc course in Numerical Solution of PDEs & Further Mathematical Methods
 
 Heading 1
 ======
