@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
 Education
 ======
 * DPhil in Mathematics, University of Oxford, 2026 (expected)
@@ -52,3 +51,6 @@ Languages
 ======
 * English (Native)
 * Spanish (Native/C1)
+
+
+[Download CV](/publications/files/CVDEC2022.pdf)
