@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year doctoral researcher at the Mathematical Institute, University of Oxford, pursuing the DPhil in Mathematics. I am co-supervised by Professors **Alain Goriely, Morten Kringelbach & Renaud Lambiotte**. I am a member of the Oxford Mathematical Brain Modelling group, Oxford Centre for Industrial & Applied Mathematics, and the Centre for Eudaimonia and Human Flourishing. Prior to this, I completed the Master's of Mathematics with study in Europe (MMath) at the University of Warwick where I graduated first class.
+I am a first-year doctoral researcher at the Mathematical Institute, University of Oxford, pursuing the DPhil in Mathematics. I am co-supervised by Professors **Alain Goriely, Morten Kringelbach & Renaud Lambiotte**. I am a member of the [Oxford Mathematical Brain Modelling group](http://goriely.com/research/brain),  [Oxford Centre for Industrial & Applied Mathematics](https://www.maths.ox.ac.uk/groups/ociam), and the [Centre for Eudaimonia and Human Flourishing](https://hedonia.kringelbach.org/). Prior to this, I completed the Master's of Mathematics with study in Europe (MMath) at the University of Warwick where I graduated first class.
 
 Research Interests
 ======
