@@ -12,6 +12,6 @@ I am a first-year doctoral researcher at the Mathematical Institute, University 
 
 Research Interests
 ======
-I have broad research interests in applied mathematics and computational science. I am particularly interested in computational neuroscience and the modelling of neural dynamics. I am seeking to understand how they underpin brain function in health and disease by developing whole-brain computational models within a coupled oscillator framework.
+I have broad research interests in applied mathematics and computational science. I am particularly interested in computational neuroscience, complexity and data science. Currently, I am working on the modelling of neural dynamics and developing techniques in neural data science. I am seeking to understand how dynamics and data underpin brain function in health and disease by developing whole-brain computational models within a coupled oscillator network.
 
-More generally, I hope to apply mathematical techniques from dynamical systems, control theory, machine learning and numerical analysis to problems in neuroscience. I am further interested in biologically inspired machine learning and have completed research in numerical analysis for spiking neuron models. 
+More generally, I hope to apply mathematical techniques from dynamical systems, network science, control theory, machine learning, data science and numerical analysis to problems in neuroscience and biology. I am further interested in biologically inspired machine learning and have completed research in numerical analysis for spiking neuron models. 
