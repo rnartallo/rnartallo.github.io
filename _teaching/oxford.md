@@ -8,7 +8,7 @@ venue: "University of Oxford, Mathematics"
 location: "Oxford, United Kingdom"
 ---
 
-Teaching assistant for MSc course in Numerical Solution of PDEs & Further Mathematical Methods.
+Teaching assistant for MSc course in Numerical Solution of PDEs & Nonlinear Systems.
 
 Heading 1
 ======
