@@ -19,7 +19,7 @@ Work experience
 ======
 * Oct 2022 - June 2023: Graduate Teaching Assistant
   * University of Oxford
-  * Teaching assistant for Numerical Solutions of PDEs & Non-linear Systems
+  * Teaching assistant for Numerical Solutions of PDEs, Nonlinear Systems, Networks and Stochastic Modelling of Biological Processes
   * Oxfordshire
 * Oct 2021 - May 2022: Graduate Teaching Assistant
   * University of Warwick
@@ -54,4 +54,4 @@ Languages
 
 Reviewer for Brain Multiphysics
 
-[Download CV](/publications/files/CVDEC2022.pdf)
+[Download CV](/publications/files/CVMARCH2024.pdf)
