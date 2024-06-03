@@ -54,4 +54,4 @@ Languages
 
 Reviewer for Brain Multiphysics
 
-[Download CV](/publications/files/CVMARCH2024.pdf)
+[Download CV](/publications/files/CV.pdf)
